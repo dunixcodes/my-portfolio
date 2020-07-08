@@ -3,4 +3,4 @@
 This is my professional portfolio, it uses AWS, ReactJS and basic HTML/CSS.
 
 I would be building upon this project as I improve my skills and knowledge with
-AWS and DevSecOps.
+Cloud technologies and DevSecOps.
