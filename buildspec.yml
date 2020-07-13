@@ -1,0 +1,17 @@
+version: 0.1
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 12
+  build:
+    commands:
+      - echo Nothing to do yet
+
+artifacts:
+  files:
+    - index.html
+    - resume.html
+    - favicon_io/*
+    - images/*
+    - styles/*
