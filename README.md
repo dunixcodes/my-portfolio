@@ -6,6 +6,18 @@ I would be building upon this project as I improve my skills and knowledge with
 Cloud technologies and DevSecOps.
 
 ## Technologies Used
--Git and Github
+-Git
+
+-Github
 
 -SSH
+
+-Python
+
+-Boto3
+
+-AWS CodeBuild
+
+-AWS SNS
+
+-AWS Lambda
