@@ -3,7 +3,7 @@
 This is my professional portfolio, it uses AWS, ReactJS and basic HTML/CSS.
 
 I would be building upon this project as I improve my skills and knowledge with
-Cloud technologies and DevSecOps.
+cloud technologies and DevSecOps.
 
 ## Technologies Used
 -Git
@@ -18,6 +18,8 @@ Cloud technologies and DevSecOps.
 
 -AWS CodeBuild
 
--AWS SNS
+-AWS CodePipeline
 
 -AWS Lambda
+
+-AWS SNS
