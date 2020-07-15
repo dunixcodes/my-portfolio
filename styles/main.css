@@ -18,7 +18,7 @@
   color: rgb(44, 62, 80);
 }
 
-.section__example {
+.section__projectItem {
   background-color: rgb(44, 62, 80);
 }
 
@@ -60,8 +60,8 @@ h1, h2, h3, h4, h5, h6 {
 */
 
 .section {
-  font-size: 4.2rem;
-  min-height: 45vh;
+  font-size: 4.5rem;
+  min-height: 40vh;
   position: relative;
   padding-top: 3.5rem;
   padding-bottom: 3.5rem;
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 .section__description {
   margin: 0 auto;
   margin-bottom: 2rem;
-  width: 60%;
+  width: 75%;
   text-align: left;
 }
 
@@ -91,38 +91,38 @@ h1, h2, h3, h4, h5, h6 {
   transform: translate(-50%, -50%);
 }
 
-.section__exampleWrapper,
-.section__example {
+.section__project,
+.section__projectItem {
   display: inline-block;
   height: 35rem;
   width: 35rem;
 }
 
-.section__exampleWrapper {
+/* .section__project {
   margin-right: 4rem;
-}
+} */
 
-.section__example {
+.section__projectItem {
   border-radius: 100%;
   cursor: pointer;
   overflow: hidden;
   position: relative;
 }
 
-.section__example:active {
+.section__projectItem:active {
   transition: 0.05s all;
   width: 34rem;
   height: 34rem;
 }
 
-.section__exampleTitle{
+.section__projectItemTitle{
   font-size: 3.4rem;
   text-align: center;
   text-transform: uppercase;
   width: 90%;
 }
 
-.section__exampleImage {
+.section__projectImage {
   opacity: 0.25;
   width: 250%;
   margin-left: -50%;
@@ -134,16 +134,15 @@ h1, h2, h3, h4, h5, h6 {
 */
 
 .section__heading--largest {
-  /* text-transform: uppercase; */
   float: left;
   font-size: 5rem;
-  margin-left: 2rem;
+  margin-left: 5rem;
 }
 
 .section--social {
   float: right;
   line-height: 10rem;
-  margin-right: 2rem;
+  margin-right: 5rem;
 }
 
 .social {
