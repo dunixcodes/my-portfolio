@@ -1,6 +1,6 @@
 # Dean Unix's Portfolio
 
-This is my professional portfolio, it uses AWS, ReactJS and basic HTML/CSS.
+This is my professional portfolio.
 
 I would be building upon this project as I improve my skills and knowledge with
 cloud technologies and DevSecOps.
